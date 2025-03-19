@@ -1,3 +1,5 @@
 # References
 
-* octocat 1 😈
+- John Doe, Software Engineer
+- Jane Smith, Data Scientist
+
